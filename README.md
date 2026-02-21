@@ -1,2 +1,2 @@
 Happy Birthday Kukki
-<a href="https://github.com/Mayank301/index.html" target="blank">Click Here</a>
+<a href="https://mayank301.github.io/Happy_Birthday-/" target="blank">Click Here</a>
